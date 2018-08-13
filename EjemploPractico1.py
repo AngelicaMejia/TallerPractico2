@@ -1,7 +1,6 @@
 import turtle
 
 
-dato = int(input('Digite valor numerico: '))
 
 
 
